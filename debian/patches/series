@@ -26,3 +26,4 @@ lp1986852-0012-dmidecode-Add-new-fields-and-enumerated-values-from-.patch
 lp1986852-0013-dmidecode-Add-support-for-type-45-records-Firmware-I.patch
 lp1986852-0014-dmidecode-Enumerate-the-new-struct-types.patch
 lp1986852-0015-dmidecode-Set-supported-version-to-3.5.0.patch
+lp-2081611-add-processor-support-from-smbios-3.6.0.patch

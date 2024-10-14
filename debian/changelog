@@ -1,3 +1,10 @@
+dmidecode (3.3-3ubuntu0.2) jammy; urgency=medium
+
+  * Add processor support from SMBIOS 3.6.0 (LP: #2081611)
+    - debian/patches/lp-2081611-add-processor-support-from-smbios-3.6.0.patch
+
+ -- Joao Andre Simioni <joao.simioni@canonical.com>  Mon, 14 Oct 2024 17:28:46 -0300
+
 dmidecode (3.3-3ubuntu0.1) jammy; urgency=medium
 
   * Support SMBIOS 3.4 and 3.5 for Hardware Enablement in 22.04 LTS (LP: #1986852)
